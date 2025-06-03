@@ -62,4 +62,12 @@ This repository contains the implementation and evaluation of the K-Nearest Neig
 - Accuracy vs K plot to illustrate model performance variation  
 
 ---
- 
+ ## 👩‍💻 Author Name: Kannati Naveena
+
+GitHub: https://github.com/kannatinaveena
+
+Internship: AI & ML Internship
+
+Task: Task 6 – KNN
+
+Date: June 2025
